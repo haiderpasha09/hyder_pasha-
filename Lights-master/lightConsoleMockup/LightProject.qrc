@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/JAHIcon.png</file>
+        <file>Images/CrossBar.png</file>
+        <file>Images/JAHImage.png</file>
+    </qresource>
+</RCC>
